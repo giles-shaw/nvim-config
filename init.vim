@@ -9,4 +9,8 @@ Plug 'w0rp/ale'
 Plug 'tpope/vim-sensible'
 call plug#end()
 
+let g:ale_linters = {
+  \ 'python': ['flake8', 'mypy'] ,
+  \ }
+
 set number
