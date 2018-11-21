@@ -7,6 +7,7 @@ endif
 call plug#begin()
 Plug 'w0rp/ale'
 Plug 'tpope/vim-sensible'
+Plug 'tpope/vim-commentary'
 call plug#end()
 
 let g:ale_linters = {
