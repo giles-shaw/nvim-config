@@ -13,4 +13,10 @@ let g:ale_linters = {
   \ 'python': ['flake8', 'mypy'] ,
   \ }
 
+let g:ale_fixers = {
+  \ 'python': ['black', 'autopep8', 'isort']
+  \ }
+
+let g:ale_fix_on_save = 1
+
 set number

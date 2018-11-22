@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/project/giles/lionel/module'
+let g:netrw_dirhist_2='/project/giles/lionel/module/tests'
+let g:netrw_dirhist_3='/project/giles/lionel/module/tests/geometry'
+let g:netrw_dirhist_4='/project/giles/lionel/module/tests'
+let g:netrw_dirhist_5='/project/giles/lionel/module/tests/geometry'
+let g:netrw_dirhist_6='/project/giles/lionel/module/lionel/data'
+let g:netrw_dirhist_7='/project/giles/lionel/module/lionel/geometry'
+let g:netrw_dirhist_8='/project/giles/lionel/module/lionel'
+let g:netrw_dirhist_9='/project/giles/lionel/module/lionel/data'
