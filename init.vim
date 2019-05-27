@@ -15,9 +15,10 @@ let g:ale_linters = {
   \ }
 
 let g:ale_fixers = {
-  \ 'python': ['black', 'autopep8', 'isort']
+  \ 'python': ['isort', 'black', 'autopep8']
   \ }
 
 let g:ale_fix_on_save = 1
 
-set number
+set number relativenumber
+set rtp+=/usr/local/opt/fzf
