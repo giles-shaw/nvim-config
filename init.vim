@@ -8,6 +8,7 @@ call plug#begin()
 Plug 'w0rp/ale'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-surround'
 call plug#end()
 
 let g:ale_linters = {
